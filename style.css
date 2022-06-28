@@ -1,0 +1,65 @@
+.ansar{
+    background-color: white;
+    height: 530px;
+    width: 400px;
+    margin-left: 440px;
+    margin-top: 70px;
+}
+.login{
+
+text-align: center;
+font-size: 40px;
+padding-top: 35px;
+}
+.king{
+    margin-left: 50px;
+    padding-left: 4px;     
+}
+.btn1{
+padding: 15px 50px;
+border-radius: 8px;
+background-color: rgb(201, 59, 168);
+border: none;
+}
+.btn2{
+border-radius: 8px;
+padding: 15px 50px;
+margin-right: 20px;
+border: none;
+}
+.holder{
+    margin-left: 50px;
+    
+    
+}
+.holder input{
+    margin-top: 40px;
+    padding-right: 110px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border-radius: 6px;
+    padding-left: 7px;
+    
+}
+.holder h2{
+    font-size: medium;
+    color: rgba(255, 0, 0, 0.626);
+    
+}
+.bigbtn{
+    width:280px;
+    height: 40px;
+    margin-left: 55px;
+    border-radius: 6px;
+    background-color: rgb(201, 59, 168);
+    border: none;
+    margin-top: 4px;
+
+}
+.lastone{
+    text-align: center;
+    font-size: medium;
+    word-spacing: 3px;
+    margin-top: 28px;
+    color: rgba(255, 0, 0, 0.66);
+}
